@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : trainwithshubham/my-note-app:latest
+     image : vikaschaudhary432005/my_notes_app:latest
      ports :
          - "8000:8000"
